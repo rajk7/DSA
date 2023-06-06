@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/raj/Projects/DSA/String/DSA.csproj": {}
+  },
+  "projects": {
+    "/Users/raj/Projects/DSA/String/DSA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/raj/Projects/DSA/String/DSA.csproj",
+        "projectName": "DSA",
+        "projectPath": "/Users/raj/Projects/DSA/String/DSA.csproj",
+        "packagesPath": "/Users/raj/.nuget/packages/",
+        "outputPath": "/Users/raj/Projects/DSA/String/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/raj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

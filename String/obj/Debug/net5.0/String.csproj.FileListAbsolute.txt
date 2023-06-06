@@ -1,0 +1,16 @@
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String.deps.json
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String.runtimeconfig.json
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String.runtimeconfig.dev.json
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String.dll
+/Users/raj/Projects/String/String/bin/Debug/net5.0/String.pdb
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.csproj.AssemblyReference.cache
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.AssemblyInfoInputs.cache
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.AssemblyInfo.cs
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.csproj.CoreCompileInputs.cache
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.dll
+/Users/raj/Projects/String/String/obj/Debug/net5.0/refint/String.dll
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.pdb
+/Users/raj/Projects/String/String/obj/Debug/net5.0/String.genruntimeconfig.cache
+/Users/raj/Projects/String/String/obj/Debug/net5.0/ref/String.dll
