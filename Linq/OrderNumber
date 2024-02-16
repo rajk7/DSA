@@ -1,0 +1,25 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+public class OrderNumber
+{
+    public static void Main(string[] args)
+    {
+        List<int> numList = new List<int>() { 1, 2, 3, 9, 10, 11, 12, 13, 7, 8,};
+        List<int> orderBy = numList.OrderBy(x=>x).ToList(); 
+        List<int> orderNumDesending = numList.OrderByDescending(x=>x).ToList();
+
+       
+        //print list
+        for(int i = 0; i< orderBy.Count; i++)
+        {
+            Console.WriteLine("Assending Order "+ orderBy[i]);
+        }
+        Console.WriteLine();
+        for(int i = 0; i< orderBy.Count; i++)
+        {
+            Console.WriteLine("Desending Order "+ orderNumDesending[i]);
+        }
+    }    
+}
